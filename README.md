@@ -2,6 +2,6 @@
 Battlecode 2017 / Team Bernard
 
 # TODO
-- [ ] JDK + Eclipse set up
-- [ ] Link Git
-- [ ] Scaffold code
+- [x] JDK + Eclipse set up
+- [x] Link Git
+- [ ] Scaffold code (working?)
