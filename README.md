@@ -1,5 +1,5 @@
-# battlecode-2016
-Battlecode 2016 / Team Bernard
+# battlecode-2017
+Battlecode 2017 / Team Bernard
 
 # TODO
 - [ ] JDK + Eclipse set up
